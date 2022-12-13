@@ -1,0 +1,19 @@
+.sachovnice { 
+    border-spacing: 0; 
+    border-collapse: collapse; 
+}
+.sachovnice th { 
+    padding: .5em; 
+}
+.sachovnice td { 
+    border: 1px solid;
+     width: 2em;
+      height: 2em; 
+}
+.sachovnice .light { 
+    background: #eee; 
+}
+.sachovnice .dark { 
+    background: #000; 
+}
+    
